@@ -1,6 +1,17 @@
 /*  your css code here. If applicable */
-.imageContainer{
+body
+{
+	width:1100px;
+}
+.firstColumn
+{
 	width:200px;
-	height:200px;
-	
+}
+.secondColumn
+{
+	width:600px;
+}
+.thirdColumn
+{
+	width:200px;
 }
